@@ -57,7 +57,7 @@ class LauncherPreferences(context: Context) {
     }
 
     fun getGridColumns(): Int {
-        return prefs.getInt(KEY_GRID_COLUMNS, DEFAULT_GRID_COLUMNS)
+        return prefs.getInt(KEY_GRID_COLUMNS, 0)
     }
 
     fun setGridColumns(columns: Int) {

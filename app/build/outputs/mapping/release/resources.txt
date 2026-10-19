@@ -1,19 +1,32 @@
-Marking attr:colorSurface:2130903305 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:spinnerStyle:2130903962 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking layout:support_simple_spinner_dropdown_item:2131427437 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:mtrl_calendar_day:2131427403 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:actionOverflowButtonStyle:2130903071 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:editTextStyle:2130903425 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:seekBarStyle:2130903918 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:mtrl_picker_navigate_to_current_year_description:2131689602 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:mtrl_picker_navigate_to_year_description:2131689603 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:mtrl_calendar_year:2131427412 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:actionBarTheme:2130903049 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:actionModePopupWindowStyle:2130903064 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:actionBarSize:2130903043 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:action_mode_bar_stub:2131230782 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:colorControlActivated:2130903264 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:colorOnSurface:2130903283 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:materialCalendarStyle:2130903742 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking style:Widget_MaterialComponents_MaterialCalendar:2131756057 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_calendar_content_padding:2131100286 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_calendar_day_width:2131100292 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_calendar_month_horizontal_padding:2131100306 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:mtrl_picker_fullscreen:2131427418 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:mtrl_picker_dialog:2131427417 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:mtrl_calendar_frame:2131230980 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:mtrl_calendar_main_pane:2131230981 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:mtrl_picker_header_selection_text:2131230992 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:mtrl_picker_header_toggle:2131230994 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:mtrl_picker_title_text:2131230998 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:material_ic_calendar_black_24dp:2131165362 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:material_ic_edit_black_24dp:2131165364 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:mtrl_picker_toggle_to_calendar_input_mode:2131689619 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:mtrl_picker_toggle_to_text_input_mode:2131689621 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:confirm_button:2131230834 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:fullscreen_header:2131230902 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_calendar_dialog_background_inset:2131100294 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:pooling_container_listener_holder_tag:2131231045 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:ratingBarStyle:2130903897 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking string:androidx_startup:2131689504 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking dimen:abc_dropdownitem_icon_width:2131099689 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
@@ -23,11 +36,15 @@ Marking id:coordinator:2131230839 reachable: referenced from /home/gwolf/project
 Marking id:design_bottom_sheet:2131230852 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:touch_outside:2131231157 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:cancel_button:2131230814 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:confirm_button:2131230834 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:nestedScrollable:2130903840 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:textColorSearchUrl:2130904079 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:edit_query:2131230876 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:design_text_input_start_icon:2131427372 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_min_touch_target_size:2131100363 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:textinput_prefix_text:2131231148 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:material_input_text_to_prefix_suffix_padding:2131100233 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking style:Widget_Material3_SideSheet:2131755975 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking string:side_sheet_accessibility_pane_title:2131689645 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:edit_query:2131230876 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking layout:design_navigation_menu_item:2131427370 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking dimen:design_navigation_icon_size:2131099772 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:design_menu_item_text:2131230855 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
@@ -44,63 +61,34 @@ Marking attr:motionDurationShort3:2130903808 reachable: referenced from /home/gw
 Marking attr:motionEasingLinearInterpolator:2130903817 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking string:exposed_dropdown_menu_content_description:2131689527 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking drawable:mtrl_dropdown_arrow:2131165383 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:m3_back_progress_bottom_container_max_scale_x_distance:2131099835 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:m3_back_progress_bottom_container_max_scale_y_distance:2131099836 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:toolbarStyle:2130904135 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking style:Widget_MaterialComponents_Toolbar:2131756124 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:split_action_bar:2131231101 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:action_bar:2131230768 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:action_context_bar:2131230776 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking style:Theme_AppCompat_Light:2131755550 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_min_touch_target_size:2131100363 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:bottomSheetStyle:2130903158 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking style:Widget_Design_BottomSheet_Modal:2131755830 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking string:bottomsheet_action_expand_halfway:2131689510 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking dimen:design_bottom_sheet_peek_height_min:2131099762 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:tag_on_apply_window_listener:2131231124 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:tag_window_insets_animation_callback:2131231132 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:transition_current_scene:2131231160 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:alpha:2130903084 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:lStar:2130903618 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:abc_cascading_menus_min_smallest_width:2131099670 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:motionEasingEmphasizedInterpolator:2130903815 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking string:clear_text_end_icon_content_description:2131689524 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking drawable:mtrl_ic_cancel:2131165386 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:tag_unhandled_key_listeners:2131231131 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:actionBarWidgetTheme:2130903050 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:decor_content_parent:2131230849 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:action_bar_container:2131230770 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:actionBarStyle:2130903045 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:save_overlay_view:2131231065 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:action_bar_activity_content:2131230769 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:motionDurationLong2:2130903799 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:motionDurationMedium4:2130903805 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:imageButtonStyle:2130903571 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:month_title:2131230975 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:tag_accessibility_heading:2131231122 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:month_grid:2131230970 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:material_value_index:2131230965 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:materialCalendarStyle:2130903742 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:text_input_error_icon:2131231142 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:text_input_end_icon:2131231141 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:error_icon_content_description:2131689526 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:textinput_suffix_text:2131231149 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:design_text_input_end_icon:2131427371 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:material_input_text_to_prefix_suffix_padding:2131100233 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:recyclerViewStyle:2130903900 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:fastscroll_default_thickness:2131099798 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:fastscroll_minimum_range:2131099800 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:fastscroll_margin:2131099799 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:is_pooling_container_tag:2131230927 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:pooling_container_listener_holder_tag:2131231045 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:transition_current_scene:2131231160 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:abc_cascading_menus_min_smallest_width:2131099670 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:theme:2130904091 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:materialThemeOverlay:2130903764 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking drawable:design_password_eye:2131165325 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking string:password_toggle_content_description:2131689633 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:abc_list_menu_item_layout:2131427344 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:nestedScrollViewStyle:2130903839 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:colorPrimary:2130903292 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:colorPrimaryVariant:2130903299 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:isMaterialTheme:2130903584 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:tag_unhandled_key_event_manager:2131231130 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:tag_unhandled_key_listeners:2131231131 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:visible_removing_fragment_view_tag:2131231182 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking animator:fragment_close_enter:2130837507 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking animator:fragment_close_exit:2130837508 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
@@ -108,234 +96,32 @@ Marking animator:fragment_fade_enter:2130837509 reachable: referenced from /home
 Marking animator:fragment_fade_exit:2130837510 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking animator:fragment_open_enter:2130837511 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking animator:fragment_open_exit:2130837512 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:snackbar_text:2131231095 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:snackbar_action:2131231094 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:design_snackbar_padding_vertical_2lines:2131099788 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:design_snackbar_padding_vertical:2131099787 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:actionBarPopupTheme:2130903042 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:panelMenuListTheme:2130903862 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking style:Theme_AppCompat_CompactMenu:2131755537 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:abc_expanded_menu_layout:2131427341 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:tag_screen_reader_focusable:2131231127 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:abc_dialog_title_material:2131427340 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:abc_screen_toolbar:2131427351 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:abc_screen_simple_overlay_action_mode:2131427350 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:abc_screen_simple:2131427349 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:title:2131231151 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:tag_accessibility_actions:2131231120 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_action_clickable_span:2131230735 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:tag_accessibility_clickable_spans:2131231121 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking style:Widget_Design_TextInputEditText:2131755837 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:textAppearanceLineHeightEnabled:2130904064 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:buttonStyle:2130903183 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:checkboxStyle:2130903201 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:searchViewStyle:2130903917 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:abc_search_view:2131427353 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:search_src_text:2131231082 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:search_edit_frame:2131231078 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:search_plate:2131231081 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:submit_area:2131231118 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:search_button:2131231076 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:search_go_btn:2131231079 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:search_close_btn:2131231077 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:search_voice_btn:2131231083 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:search_mag_icon:2131231080 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:abc_searchview_description_search:2131689493 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:abc_search_dropdown_item_icons_2line:2131427352 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:abc_search_view_preferred_height:2131099702 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:abc_search_view_preferred_width:2131099703 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:m3_back_progress_side_container_max_scale_x_distance_shrink:2131099840 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:m3_back_progress_side_container_max_scale_x_distance_grow:2131099839 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:m3_back_progress_side_container_max_scale_y_distance:2131099841 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:topPanel:2131231156 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:buttonPanel:2131230813 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:contentPanel:2131230837 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:customPanel:2131230844 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:autoCompleteTextViewStyle:2130903098 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking style:Widget_AppCompat_AutoCompleteTextView:2131755763 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:mtrl_auto_complete_simple_item:2131427402 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_exposed_dropdown_menu_popup_elevation:2131100332 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:listPopupWindowStyle:2130903705 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking style:Widget_MaterialComponents_CompoundButton_RadioButton:2131756049 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:radioButtonStyle:2130903895 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:toolbarNavigationButtonStyle:2130904134 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:abc_action_bar_up_description:2131689473 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:mtrl_calendar_vertical:2131427411 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:mtrl_calendar_horizontal:2131427406 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_calendar_navigation_height:2131100309 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_calendar_navigation_top_padding:2131100310 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_calendar_navigation_bottom_padding:2131100308 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_calendar_days_of_week_height:2131100293 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_calendar_day_height:2131100288 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_calendar_month_vertical_padding:2131100307 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_calendar_bottom_padding:2131100285 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:mtrl_calendar_days_of_week:2131230979 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:mtrl_calendar_months:2131230982 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking integer:mtrl_calendar_year_selector_span:2131296306 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:mtrl_calendar_year_selector_frame:2131230985 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:month_navigation_fragment_toggle:2131230972 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:month_navigation_previous:2131230974 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:month_navigation_next:2131230973 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:mtrl_calendar_day_selector_frame:2131230978 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:mtrl_chip_close_icon_content_description:2131689583 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:bottomSheetDialogTheme:2130903156 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking style:Theme_Design_Light_BottomSheetDialog:2131755561 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:enableEdgeToEdge:2130903431 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:materialClockStyle:2130903750 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:material_radial_view_group:2131427389 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:chipStyle:2130903231 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking style:Widget_MaterialComponents_Chip_Action:2131756038 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:textColorSearchUrl:2130904079 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking color:abc_decor_view_status_guard_light:2131034118 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking color:abc_decor_view_status_guard:2131034117 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:abc_action_menu_layout:2131427331 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:abc_action_menu_item_layout:2131427330 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:actionOverflowMenuStyle:2130903072 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:alertDialogTheme:2130903082 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:parentPanel:2131231036 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:scrollView:2131231072 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:alertDialogCenterButtons:2130903080 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:title_template:2131231153 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:alertTitle:2131230788 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:textSpacerNoButtons:2131231137 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:titleDividerNoCustom:2131231152 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:textSpacerNoTitle:2131231138 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:scrollIndicatorUp:2131231071 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:scrollIndicatorDown:2131231070 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:special_effects_controller_view_tag:2131231099 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:coordinatorLayoutStyle:2130903345 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking style:Widget_MaterialComponents_MaterialCalendar:2131756057 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_calendar_content_padding:2131100286 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_calendar_day_width:2131100292 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_calendar_month_horizontal_padding:2131100306 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:mtrl_picker_fullscreen:2131427418 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:mtrl_picker_dialog:2131427417 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:mtrl_calendar_frame:2131230980 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:mtrl_calendar_main_pane:2131230981 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:mtrl_picker_header_selection_text:2131230992 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:mtrl_picker_header_toggle:2131230994 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:mtrl_picker_title_text:2131230998 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:material_ic_calendar_black_24dp:2131165362 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:material_ic_edit_black_24dp:2131165364 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:mtrl_picker_toggle_to_calendar_input_mode:2131689619 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:mtrl_picker_toggle_to_text_input_mode:2131689621 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:fullscreen_header:2131230902 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_calendar_dialog_background_inset:2131100294 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:alertDialogStyle:2130903081 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_snackbar_background_corner_radius:2131100409 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:listMenuViewStyle:2130903704 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:dropDownListViewStyle:2130903419 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:abc_prepend_shortcut_label:2131689489 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:abc_menu_meta_shortcut_label:2131689485 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:abc_menu_ctrl_shortcut_label:2131689481 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:abc_menu_alt_shortcut_label:2131689480 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:abc_menu_shift_shortcut_label:2131689486 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:abc_menu_sym_shortcut_label:2131689488 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:abc_menu_function_shortcut_label:2131689484 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:abc_menu_space_shortcut_label:2131689487 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:abc_menu_enter_shortcut_label:2131689483 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:abc_menu_delete_shortcut_label:2131689482 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:shortcut:2131231087 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:submenuarrow:2131231117 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:group_divider:2131230908 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:content:2131230836 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:abc_list_menu_item_radio:2131427345 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:abc_list_menu_item_checkbox:2131427342 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:abc_list_menu_item_icon:2131427343 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_textfield_default_mtrl_alpha:2131165298 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_ab_share_pack_mtrl_alpha:2131165224 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_textfield_search_default_mtrl_alpha:2131165300 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_cab_background_internal_bg:2131165239 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_menu_hardkey_panel_mtrl_mult:2131165272 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_popup_background_mtrl_mult:2131165273 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_tab_indicator_material:2131165291 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_textfield_search_material:2131165301 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_btn_check_material_anim:2131165228 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_btn_radio_material_anim:2131165234 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_btn_check_material:2131165227 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_btn_radio_material:2131165233 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_ic_commit_search_api_mtrl_alpha:2131165248 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_seekbar_tick_mark_material:2131165283 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_ic_menu_share_mtrl_alpha:2131165255 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_ic_menu_copy_mtrl_am_alpha:2131165250 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_ic_menu_cut_mtrl_alpha:2131165251 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_ic_menu_selectall_mtrl_alpha:2131165254 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_ic_menu_paste_mtrl_am_alpha:2131165253 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_textfield_activated_mtrl_alpha:2131165297 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_textfield_search_activated_mtrl_alpha:2131165299 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_cab_background_top_mtrl_alpha:2131165241 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_text_cursor_material:2131165293 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_text_select_handle_left_mtrl:2131165294 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_text_select_handle_middle_mtrl:2131165295 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_text_select_handle_right_mtrl:2131165296 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:colorButtonNormal:2130903262 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_star_black_48dp:2131165287 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_star_half_black_48dp:2131165288 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_edit_text_material:2131165244 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking color:abc_tint_edittext:2131034133 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_switch_track_mtrl_alpha:2131165290 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking color:abc_tint_switch_track:2131034136 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_switch_thumb_material:2131165289 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:colorSwitchThumbNormal:2130903315 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_btn_default_mtrl_shape:2131165232 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_btn_borderless_material:2131165226 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_btn_colored_material:2131165231 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:colorAccent:2130903260 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_spinner_mtrl_am_alpha:2131165285 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_spinner_textfield_background_material:2131165286 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:colorControlNormal:2130903266 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking color:abc_tint_default:2131034132 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking color:abc_tint_btn_checkable:2131034131 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_seekbar_thumb_material:2131165282 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking color:abc_tint_seek_thumb:2131034134 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking color:abc_tint_spinner:2131034135 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:abc_config_prefDialogWidth:2131099671 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:abc_cascading_menu_item_layout:2131427339 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:abc_popup_menu_header_item_layout:2131427346 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:mtrl_calendar_month_labeled:2131427408 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:dialogTheme:2130903392 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:materialButtonStyle:2130903728 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking style:Widget_MaterialComponents_Button:2131756024 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:design_text_input_start_icon:2131427372 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:textinput_prefix_text:2131231148 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:mtrl_picker_toggle_to_year_selection:2131689622 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:mtrl_picker_toggle_to_day_selection:2131689620 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:m3_back_progress_bottom_container_max_scale_x_distance:2131099835 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:m3_back_progress_bottom_container_max_scale_y_distance:2131099836 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:materialButtonToggleGroupStyle:2130903729 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking style:Widget_MaterialComponents_MaterialButtonToggleGroup:2131756056 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:textInputStyle:2130904088 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking style:Widget_Design_TextInputLayout:2131755838 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_textinput_box_label_cutout_padding:2131100422 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_textinput_box_stroke_width_default:2131100423 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_textinput_box_stroke_width_focused:2131100424 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking color:mtrl_filled_background_color:2131034842 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking color:mtrl_textinput_default_box_stroke_color:2131034869 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking color:mtrl_textinput_disabled_color:2131034870 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking color:mtrl_textinput_hovered_box_stroke_color:2131034873 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:motionDurationShort2:2130903807 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_shape_corner_size_small_component:2131100397 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:m3_comp_outlined_autocomplete_menu_container_elevation:2131099998 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_exposed_dropdown_menu_popup_vertical_padding:2131100334 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:material_font_2_0_box_collapsed_padding_top:2131100229 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:material_font_1_3_box_collapsed_padding_top:2131100228 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:material_filled_edittext_font_2_0_padding_top:2131100227 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:material_filled_edittext_font_2_0_padding_bottom:2131100226 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:material_filled_edittext_font_1_3_padding_top:2131100225 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:material_filled_edittext_font_1_3_padding_bottom:2131100224 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking style:TextAppearance_AppCompat_Caption:2131755415 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking color:design_error:2131034203 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:character_counter_overflowed_content_description:2131689522 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:character_counter_content_description:2131689521 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:character_counter_pattern:2131689523 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:textinput_counter:2131231144 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:mtrl_textinput_counter_margin_start:2131100425 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:textinput_error:2131231145 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:textinput_helper_text:2131231146 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:textinput_placeholder:2131231147 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:fragment_container_view_tag:2131230901 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:save_overlay_view:2131231065 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:action_bar_activity_content:2131230769 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:action_bar_container:2131230770 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:motionDurationLong2:2130903799 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:motionDurationMedium4:2130903805 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:imageButtonStyle:2130903571 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:month_title:2131230975 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:tag_accessibility_heading:2131231122 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:month_grid:2131230970 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:material_value_index:2131230965 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:text_input_error_icon:2131231142 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:text_input_end_icon:2131231141 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:error_icon_content_description:2131689526 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:textinput_suffix_text:2131231149 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:design_text_input_end_icon:2131427371 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:recyclerViewStyle:2130903900 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:fastscroll_default_thickness:2131099798 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:fastscroll_minimum_range:2131099800 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:fastscroll_margin:2131099799 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:is_pooling_container_tag:2131230927 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:theme:2130904091 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:materialThemeOverlay:2130903764 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:abc_list_menu_item_layout:2131427344 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:state_indeterminate:2130903979 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:state_error:2130903978 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:checkboxStyle:2130903201 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking style:Widget_MaterialComponents_CompoundButton_CheckBox:2131756048 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking drawable:mtrl_checkbox_button_checked_unchecked:2131165373 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:isMaterial3Theme:2130903583 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
@@ -347,32 +133,11 @@ Marking id:indeterminate:2131230923 reachable: referenced from /home/gwolf/proje
 Marking string:mtrl_checkbox_state_description_checked:2131689580 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking string:mtrl_checkbox_state_description_unchecked:2131689582 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking string:mtrl_checkbox_state_description_indeterminate:2131689581 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:colorControlActivated:2130903264 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:colorError:2130903267 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking style:Widget_MaterialComponents_TimePicker_Clock:2131756116 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:material_clock_hand_stroke_width:2131100210 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:material_clock_hand_center_dot_radius:2131100208 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:spacer:2131231098 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:material_timepicker:2131427393 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:material_clock_face:2131230948 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:material_clock_period_toggle:2131230953 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:material_minute_tv:2131230958 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:material_hour_tv:2131230955 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:material_clock_hand:2131230949 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:selection_type:2131231086 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:abc_popup_menu_item_layout:2131427347 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:report_drawn:2131231054 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:material_time_chip:2131427391 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:material_time_input:2131427392 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:material_label:2131230956 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking layout:mtrl_calendar_day_of_week:2131427404 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:mtrl_picker_day_of_week_column_header:2131689596 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:motionEasingStandardDecelerateInterpolator:2130903820 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:motionDurationMedium2:2130903803 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:tag_state_description:2131231128 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:elevationOverlayEnabled:2130903429 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:elevationOverlayColor:2130903428 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:elevationOverlayAccentColor:2130903427 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking attr:checkedTextViewStyle:2130903212 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:colorSurface:2130903305 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:colorOnSurface:2130903283 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:nestedScrollViewStyle:2130903839 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:accessibility_custom_action_0:2131230736 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:accessibility_custom_action_1:2131230737 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:accessibility_custom_action_2:2131230748 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
@@ -406,15 +171,261 @@ Marking id:accessibility_custom_action_29:2131230758 reachable: referenced from 
 Marking id:accessibility_custom_action_30:2131230760 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:accessibility_custom_action_31:2131230761 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:tag_accessibility_pane_title:2131231123 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:tag_accessibility_actions:2131231120 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:tag_on_receive_content_mime_types:2131231126 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:tag_on_receive_content_listener:2131231125 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:snackbar_text:2131231095 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:snackbar_action:2131231094 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:design_snackbar_padding_vertical_2lines:2131099788 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:design_snackbar_padding_vertical:2131099787 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:actionBarPopupTheme:2130903042 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:panelMenuListTheme:2130903862 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking style:Theme_AppCompat_CompactMenu:2131755537 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:abc_expanded_menu_layout:2131427341 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:actionBarWidgetTheme:2130903050 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:tag_screen_reader_focusable:2131231127 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:abc_dialog_title_material:2131427340 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:abc_screen_toolbar:2131427351 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:decor_content_parent:2131230849 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:abc_screen_simple_overlay_action_mode:2131427350 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:abc_screen_simple:2131427349 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:title:2131231151 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:accessibility_action_clickable_span:2131230735 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:tag_accessibility_clickable_spans:2131231121 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking style:Widget_Design_TextInputEditText:2131755837 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:buttonStyle:2130903183 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:searchViewStyle:2130903917 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:abc_search_view:2131427353 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:search_src_text:2131231082 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:search_edit_frame:2131231078 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:search_plate:2131231081 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:submit_area:2131231118 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:search_button:2131231076 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:search_go_btn:2131231079 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:search_close_btn:2131231077 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:search_voice_btn:2131231083 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:search_mag_icon:2131231080 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:abc_searchview_description_search:2131689493 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:abc_search_dropdown_item_icons_2line:2131427352 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:abc_search_view_preferred_height:2131099702 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:abc_search_view_preferred_width:2131099703 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_cab_background_top_material:2131165240 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_cab_background_internal_bg:2131165239 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_cab_background_top_mtrl_alpha:2131165241 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_ratingbar_material:2131165275 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:abc_star_big:2131099707 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_ratingbar_indicator_material:2131165274 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:abc_star_medium:2131099708 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_ratingbar_small_material:2131165276 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:abc_star_small:2131099709 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_vector_test:2131165302 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:colorControlNormal:2130903266 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_switch_thumb_material:2131165289 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_seekbar_track_material:2131165284 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_list_divider_mtrl_alpha:2131165261 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_dialog_material_background:2131165243 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:topPanel:2131231156 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:buttonPanel:2131230813 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:contentPanel:2131230837 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:customPanel:2131230844 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:motionEasingStandardDecelerateInterpolator:2130903820 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:motionDurationMedium2:2130903803 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:motionDurationShort2:2130903807 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:materialClockStyle:2130903750 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:material_radial_view_group:2131427389 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking style:Widget_MaterialComponents_CompoundButton_RadioButton:2131756049 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:radioButtonStyle:2130903895 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:textAppearanceLineHeightEnabled:2130904064 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:toolbarNavigationButtonStyle:2130904134 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:actionBarStyle:2130903045 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:abc_action_bar_up_description:2131689473 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:mtrl_chip_close_icon_content_description:2131689583 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:bottomSheetDialogTheme:2130903156 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking style:Theme_Design_Light_BottomSheetDialog:2131755561 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:enableEdgeToEdge:2130903431 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:chipStyle:2130903231 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking style:Widget_MaterialComponents_Chip_Action:2131756038 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:autoCompleteTextViewStyle:2130903098 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking color:abc_decor_view_status_guard_light:2131034118 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking color:abc_decor_view_status_guard:2131034117 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:abc_action_menu_layout:2131427331 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:abc_action_menu_item_layout:2131427330 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:actionOverflowMenuStyle:2130903072 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:alertDialogTheme:2130903082 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:parentPanel:2131231036 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:scrollView:2131231072 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:alertDialogCenterButtons:2130903080 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:title_template:2131231153 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:alertTitle:2131230788 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:textSpacerNoButtons:2131231137 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:titleDividerNoCustom:2131231152 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:textSpacerNoTitle:2131231138 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:scrollIndicatorUp:2131231071 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:scrollIndicatorDown:2131231070 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:special_effects_controller_view_tag:2131231099 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:coordinatorLayoutStyle:2130903345 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:alertDialogStyle:2130903081 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_snackbar_background_corner_radius:2131100409 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:listMenuViewStyle:2130903704 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:dropDownListViewStyle:2130903419 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:abc_prepend_shortcut_label:2131689489 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:abc_menu_meta_shortcut_label:2131689485 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:abc_menu_ctrl_shortcut_label:2131689481 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:abc_menu_alt_shortcut_label:2131689480 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:abc_menu_shift_shortcut_label:2131689486 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:abc_menu_sym_shortcut_label:2131689488 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:abc_menu_function_shortcut_label:2131689484 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:abc_menu_space_shortcut_label:2131689487 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:abc_menu_enter_shortcut_label:2131689483 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:abc_menu_delete_shortcut_label:2131689482 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:shortcut:2131231087 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:submenuarrow:2131231117 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:group_divider:2131230908 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:content:2131230836 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:abc_list_menu_item_radio:2131427345 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:abc_list_menu_item_checkbox:2131427342 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:abc_list_menu_item_icon:2131427343 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_textfield_default_mtrl_alpha:2131165298 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_ab_share_pack_mtrl_alpha:2131165224 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_textfield_search_default_mtrl_alpha:2131165300 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_menu_hardkey_panel_mtrl_mult:2131165272 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_popup_background_mtrl_mult:2131165273 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_tab_indicator_material:2131165291 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_textfield_search_material:2131165301 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_btn_check_material_anim:2131165228 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_btn_radio_material_anim:2131165234 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_btn_check_material:2131165227 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_btn_radio_material:2131165233 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_ic_commit_search_api_mtrl_alpha:2131165248 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_seekbar_tick_mark_material:2131165283 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_ic_menu_share_mtrl_alpha:2131165255 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_ic_menu_copy_mtrl_am_alpha:2131165250 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_ic_menu_cut_mtrl_alpha:2131165251 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_ic_menu_selectall_mtrl_alpha:2131165254 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_ic_menu_paste_mtrl_am_alpha:2131165253 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_textfield_activated_mtrl_alpha:2131165297 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_textfield_search_activated_mtrl_alpha:2131165299 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_text_cursor_material:2131165293 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_text_select_handle_left_mtrl:2131165294 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_text_select_handle_middle_mtrl:2131165295 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_text_select_handle_right_mtrl:2131165296 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:colorButtonNormal:2130903262 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_star_black_48dp:2131165287 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_star_half_black_48dp:2131165288 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_edit_text_material:2131165244 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking color:abc_tint_edittext:2131034133 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_switch_track_mtrl_alpha:2131165290 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking color:abc_tint_switch_track:2131034136 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:colorSwitchThumbNormal:2130903315 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_btn_default_mtrl_shape:2131165232 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_btn_borderless_material:2131165226 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_btn_colored_material:2131165231 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:colorAccent:2130903260 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_spinner_mtrl_am_alpha:2131165285 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_spinner_textfield_background_material:2131165286 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking color:abc_tint_default:2131034132 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking color:abc_tint_btn_checkable:2131034131 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking drawable:abc_seekbar_thumb_material:2131165282 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking color:abc_tint_seek_thumb:2131034134 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking color:abc_tint_spinner:2131034135 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:abc_config_prefDialogWidth:2131099671 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:abc_cascading_menu_item_layout:2131427339 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:abc_popup_menu_header_item_layout:2131427346 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_calendar_day_height:2131100288 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:mtrl_calendar_month_labeled:2131427408 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:dialogTheme:2130903392 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:materialButtonStyle:2130903728 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking style:Widget_MaterialComponents_Button:2131756024 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:abc_popup_menu_item_layout:2131427347 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:mtrl_picker_toggle_to_year_selection:2131689622 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:mtrl_picker_toggle_to_day_selection:2131689620 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:materialButtonToggleGroupStyle:2130903729 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking style:Widget_MaterialComponents_MaterialButtonToggleGroup:2131756056 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:textInputStyle:2130904088 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking style:Widget_Design_TextInputLayout:2131755838 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_textinput_box_label_cutout_padding:2131100422 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_textinput_box_stroke_width_default:2131100423 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_textinput_box_stroke_width_focused:2131100424 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking color:mtrl_filled_background_color:2131034842 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking color:mtrl_textinput_default_box_stroke_color:2131034869 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking color:mtrl_textinput_disabled_color:2131034870 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking color:mtrl_textinput_hovered_box_stroke_color:2131034873 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_shape_corner_size_small_component:2131100397 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:m3_comp_outlined_autocomplete_menu_container_elevation:2131099998 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_exposed_dropdown_menu_popup_vertical_padding:2131100334 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:material_font_2_0_box_collapsed_padding_top:2131100229 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:material_font_1_3_box_collapsed_padding_top:2131100228 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:material_filled_edittext_font_2_0_padding_top:2131100227 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:material_filled_edittext_font_2_0_padding_bottom:2131100226 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:material_filled_edittext_font_1_3_padding_top:2131100225 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:material_filled_edittext_font_1_3_padding_bottom:2131100224 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking style:TextAppearance_AppCompat_Caption:2131755415 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking color:design_error:2131034203 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:character_counter_overflowed_content_description:2131689522 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:character_counter_content_description:2131689521 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:character_counter_pattern:2131689523 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:textinput_counter:2131231144 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_textinput_counter_margin_start:2131100425 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:textinput_error:2131231145 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:textinput_helper_text:2131231146 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:textinput_placeholder:2131231147 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:fragment_container_view_tag:2131230901 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking style:Widget_MaterialComponents_TimePicker_Clock:2131756116 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:material_clock_hand_stroke_width:2131100210 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:material_clock_hand_center_dot_radius:2131100208 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:spacer:2131231098 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:material_timepicker:2131427393 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:material_clock_face:2131230948 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:material_clock_period_toggle:2131230953 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:material_minute_tv:2131230958 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:material_hour_tv:2131230955 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:material_clock_hand:2131230949 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:selection_type:2131231086 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:report_drawn:2131231054 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:material_time_chip:2131427391 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:material_time_input:2131427392 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:material_label:2131230956 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:mtrl_calendar_day_of_week:2131427404 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:mtrl_picker_day_of_week_column_header:2131689596 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking style:Widget_AppCompat_AutoCompleteTextView:2131755763 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:mtrl_auto_complete_simple_item:2131427402 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_exposed_dropdown_menu_popup_elevation:2131100332 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:listPopupWindowStyle:2130903705 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:tag_state_description:2131231128 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:elevationOverlayEnabled:2130903429 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:elevationOverlayColor:2130903428 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:elevationOverlayAccentColor:2130903427 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking attr:checkedTextViewStyle:2130903212 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking dimen:m3_carousel_debug_keyline_width:2131099900 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:mtrl_calendar_vertical:2131427411 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:mtrl_calendar_horizontal:2131427406 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_calendar_navigation_height:2131100309 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_calendar_navigation_top_padding:2131100310 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_calendar_navigation_bottom_padding:2131100308 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_calendar_days_of_week_height:2131100293 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_calendar_month_vertical_padding:2131100307 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:mtrl_calendar_bottom_padding:2131100285 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:mtrl_calendar_days_of_week:2131230979 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:mtrl_calendar_months:2131230982 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking integer:mtrl_calendar_year_selector_span:2131296306 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:mtrl_calendar_year_selector_frame:2131230985 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:month_navigation_fragment_toggle:2131230972 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:month_navigation_previous:2131230974 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:month_navigation_next:2131230973 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking id:mtrl_calendar_day_selector_frame:2131230978 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking attr:actionModeStyle:2130903068 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking layout:abc_action_mode_close_item_material:2131427333 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:action_mode_close_button:2131230783 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking layout:abc_action_bar_title_item:2131427328 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:action_bar_title:2131230774 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking id:action_bar_subtitle:2131230773 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:m3_back_progress_side_container_max_scale_x_distance_shrink:2131099840 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:m3_back_progress_side_container_max_scale_x_distance_grow:2131099839 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking dimen:m3_back_progress_side_container_max_scale_y_distance:2131099841 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:mtrl_calendar_day:2131427403 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:mtrl_picker_navigate_to_current_year_description:2131689602 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking string:mtrl_picker_navigate_to_year_description:2131689603 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+Marking layout:mtrl_calendar_year:2131427412 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking layout:material_clockface_view:2131427388 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking dimen:material_clock_hand_padding:2131100209 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking color:material_timepicker_clockface:2131034817 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
@@ -430,17 +441,6 @@ Marking attr:motionEasingEmphasizedDecelerateInterpolator:2130903814 reachable: 
 Marking dimen:material_helper_text_font_1_3_padding_horizontal:2131100231 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking dimen:material_helper_text_default_padding_top:2131100230 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 Marking dimen:material_helper_text_font_1_3_padding_top:2131100232 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_cab_background_top_material:2131165240 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_ratingbar_material:2131165275 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:abc_star_big:2131099707 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_ratingbar_indicator_material:2131165274 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:abc_star_medium:2131099708 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_ratingbar_small_material:2131165276 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking dimen:abc_star_small:2131099709 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_vector_test:2131165302 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_seekbar_track_material:2131165284 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_list_divider_mtrl_alpha:2131165261 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking drawable:abc_dialog_material_background:2131165243 reachable: referenced from /home/gwolf/projects/gwolf-tv-launcher/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 android.content.res.Resources#getIdentifier present: true
 Web content present: false
 Referenced Strings:
@@ -458,8 +458,8 @@ LEFT
 java.lang.CharSequence
 autoStoreLocales
 MButtonToggleGroup
-onBackProgressed
 0
+onBackProgressed
 ACTION_PRESS_AND_HOLD
 kotlin.jvm.functions.
 onMenuKeyEvent
@@ -470,8 +470,8 @@ emoji2.text.DefaultEmojiConfig
 bottomRight
 H
 ohryu_launcher_prefs
-android.intent.extra.PROCESS_TEXT_REA...
 Chip
+android.intent.extra.PROCESS_TEXT_REA...
 fillColor
 TITLE_TEXT_RES_ID_KEY
 W
@@ -491,10 +491,10 @@ kotlin.String
 STATE_
 r
 java.lang.Module
-androidx.lifecycle.BundlableSavedStat...
 GridLayoutManager
-Layout
+androidx.lifecycle.BundlableSavedStat...
 TypefaceCompatApi26Impl
+Layout
 this$0
 x
 Loaders:
@@ -506,8 +506,8 @@ androidx.profileinstaller.action.SKIP...
 startColor
 isTagEnabled
 decelerate
-CSLCompat
 drawableLeft
+CSLCompat
 ACTION_SET_PROGRESS
 android:style
 RESULT_OK
@@ -529,8 +529,8 @@ strokeWidth
 androidx.view.accessibility.Accessibi...
 setSelectedPositionInt
 ACTION_CLEAR_FOCUS
-RESULT_BASELINE_PROFILE_NOT_FOUND
 DEEP_COPY_VALIDATOR_KEY
+RESULT_BASELINE_PROFILE_NOT_FOUND
 ACTION_SCROLL_BACKWARD
 locale
 RESULT_DELETE_SKIP_FILE_SUCCESS
@@ -602,8 +602,8 @@ DESTROYED
 android.intent.action.TIME_TICK
 Theme.MaterialComponents
 mMainThread
-kotlin.collections.Collection
 UTC
+kotlin.collections.Collection
 android.intent.action.TIME_SET
 checkedIconEnabled
 ConstraintLayout
@@ -615,8 +615,8 @@ translateX
 TextView
 ImageView
 setEpicenterBounds
-read
 void
+read
 MenuItemWrapper
 mStableInsets
 chipIconVisible
@@ -640,10 +640,10 @@ newConfig
 android.intent.action.MAIN
 intrface
 0.0
-application
+yMMMM
 android:user_visible_hint
 ATTACH
-yMMMM
+application
 setValue
 layout_inflater
 UNKNOWN
@@ -653,8 +653,8 @@ android:visibility:parent
 endColor
 android.intent.category.LEANBACK_LAUN...
 suggest_intent_extra_data
-onBackCancelled
 suggest_flags
+onBackCancelled
 emojiCompat
 centerColor
 state
@@ -715,8 +715,8 @@ name
 NestedScrollView
 btn_settings
 getDescriptor
-font_variation_settings
 bool
+font_variation_settings
 android
 rv_apps
 java.lang.module.ModuleDescriptor
@@ -770,8 +770,8 @@ double
 CheckedTextView
 activityName
 robolectric
-strokeLineJoin
 INVISIBLE
+strokeLineJoin
 kotlin.Short
 .apk
 java.lang.Throwable
@@ -789,8 +789,8 @@ SETTLING
 java.util.Map$Entry
 ACTION_DRAG_START
 ConstraintHelper
-char
 THEME_RES_ID_KEY
+char
 EmojiCompatInitializer
 kotlin.Any
 KEY_COMPONENT_ACTIVITY_REGISTERED_RCS
@@ -799,8 +799,8 @@ RESULT_INSTALL_SUCCESS
 uimode
 KEY_COMPONENT_ACTIVITY_REGISTERED_KEYS
 AppLocalesStorageHelper
-checked
 android.view.View
+checked
 java.lang.Byte
 group
 java.lang.Cloneable
@@ -823,14 +823,14 @@ ACTION_PREVIOUS_HTML_ELEMENT
 http://schemas.android.com/apk/res/an...
 suggest_text_2_url
 ACTION_SHOW_TOOLTIP
+addFontFromAssetManager
 doBeforeTextChanged
 ensureImeVisible
-addFontFromAssetManager
 androidx.lifecycle.savedstate.vm.tag
 WindowInsetsCompat
 android.intent.action.PROCESS_TEXT
-mAttachInfo
 mIsChildViewEnabled
+mAttachInfo
 classes.dex
 getModule
 parent
@@ -871,8 +871,8 @@ ToggleButton
 androidx.view.accessibility.Accessibi...
 set
 ACTION_IME_ENTER
-DETACH
 computeFitSystemWindows
+DETACH
 CoordinatorLayout
 DAY_VIEW_DECORATOR_KEY
 REL
@@ -891,15 +891,15 @@ kotlin.Boolean
 androidx.view.accessibility.Accessibi...
 autoMirrored
 InputConnectionCompat
-android.speech.extra.MAX_RESULTS
 btn_check_material_anim
+android.speech.extra.MAX_RESULTS
 parcel
 en
 NAVIGATION_PREV_TAG
 java.lang.annotation.Annotation
 ACTION_ACCESSIBILITY_FOCUS
-translationAlpha
 font_weight
+translationAlpha
 ACTION_LONG_CLICK
 CustomAttribute
 ACTION_SET_SELECTION
@@ -907,19 +907,20 @@ android.speech.extra.LANGUAGE
 Barrier
 androidx.view.accessibility.Accessibi...
 MaterialButton
-timeout
 content
+timeout
 kotlin.collections.Map
 DATE_SELECTOR_KEY
 ListPopupWindow
-alpha
 ProfileInstaller
-java.lang.Boolean
+alpha
 android:menu:actionviewstates:
+java.lang.Boolean
 selector
 Unpin
 class
 %d
+app_card_width
 btn_hide
 pathData
 IconCompat
@@ -964,8 +965,8 @@ ACTION_PAGE_RIGHT
 menu
 ACTION_HIDE_TOOLTIP
 com.android.internal.view.menu.MenuBu...
-Transform
 NEGATIVE_BUTTON_CONTENT_DESCRIPTION_R...
+Transform
 btn_pin
 EmojiCompat.MetadataRepo.create
 /data/misc/profiles/ref/
@@ -987,7 +988,6 @@ kotlin.Number
 KEY_PINNED_APPS
 NULL
 mv
-nb
 null
 font_italic
 background
@@ -1001,6 +1001,7 @@ android.webkit.
 ACTION_SCROLL_RIGHT
 addFontFromBuffer
 asyncTraceEnd
+ob
 ACTION_SCROLL_LEFT
 STARTED
 kotlin.Comparable
@@ -1016,8 +1017,8 @@ _LifecycleAdapter
 callback
 mOnKeyListener
 ACTION_PASTE
-AutoCompleteTextView
 android.graphics.FontFamily
+AutoCompleteTextView
 00
 suggest_icon_1
 suggest_icon_2
@@ -1027,8 +1028,8 @@ CENTER
 freeze
 java.lang.Long
 java.util.Map
-TRACE_TAG_APP
 /data/misc/profiles/cur/0
+TRACE_TAG_APP
 SuggestionsAdapter
 drawable
 ACTION_NEXT_HTML_ELEMENT
@@ -1054,11 +1055,12 @@ ACTION_PAGE_DOWN
 classes_to_restore
 ACTION_SCROLL_TO_POSITION
 audio
-key
 android.intent.action.PACKAGE_CHANGED
+key
 kotlin.Enum.Companion
 RESOURCE
 profileinstaller_profileWrittenFor_la...
+spacing_sm
 android:target_state
 ACTION_EXPAND
 window.decorView
@@ -1101,8 +1103,8 @@ ON_DESTROY
 abortCreation
 ViewParentCompat
 BottomSheetBehavior
-RESULT_ALREADY_INSTALLED
 android:menu:actionviewstates
+RESULT_ALREADY_INSTALLED
 activity_main
 onBackPressedCallback
 FontsProvider
@@ -1148,8 +1150,8 @@ ActivityResultRegistry
 tv_app_label
 savedStateRegistry
 power
-event
 java.lang.Number
+event
 SOURCE_INPUT_METHOD
 android.settings.SETTINGS
 suggest_intent_data_id
@@ -1179,8 +1181,8 @@ TOGGLE_BUTTON_TAG
 POSITIVE_BUTTON_CONTENT_DESCRIPTION_R...
 VERTICAL_DIMENSION
 NAVIGATION_NEXT_TAG
-EmojiCompat.FontRequestEmojiCompatCon...
 REMOVED
+EmojiCompat.FontRequestEmojiCompatCon...
 android.speech.extra.PROMPT
 kotlin.jvm.internal.EnumCompanionObject
 RESULT_UNSUPPORTED_ART_VERSION
@@ -1545,6 +1547,7 @@ Marking id:contentPanel:2131230837 used because it matches string pool constant 
 Marking attr:alpha:2130903084 used because it matches string pool constant alpha
 Marking attr:alphabeticModifiers:2130903085 used because it matches string pool constant alpha
 Marking attr:selectorSize:2130903922 used because it matches string pool constant selector
+Marking dimen:app_card_width:2131099730 used because it matches string pool constant app_card_width
 Marking id:btn_hide:2131230809 used because it matches string pool constant btn_hide
 Marking id:img_app_icon:2131230922 used because it matches string pool constant img_app_icon
 Marking attr:closeIconEnabled:2130903241 used because it matches string pool constant closeIconEnabled
@@ -1629,6 +1632,7 @@ Marking layout:activity_main:2131427356 used because it matches string pool cons
 Marking attr:keyPositionType:2130903615 used because it matches string pool constant key
 Marking attr:keyboardIcon:2130903616 used because it matches string pool constant key
 Marking attr:keylines:2130903617 used because it matches string pool constant key
+Marking dimen:spacing_sm:2131100457 used because it matches string pool constant spacing_sm
 Marking id:up:2131231174 used because it matches string pool constant up
 Marking id:btn_app_info:2131230808 used because it matches string pool constant btn_app_info
 Marking attr:queryBackground:2130903892 used because it matches string pool constant query
@@ -5608,7 +5612,7 @@ Marking id:fragment_container_view_tag:2131230901 used because it matches string
 @dimen/radius_sm : reachable=false
 @dimen/spacing_lg : reachable=false
 @dimen/spacing_md : reachable=false
-@dimen/spacing_sm : reachable=false
+@dimen/spacing_sm : reachable=true
 @dimen/spacing_xl : reachable=false
 @dimen/spacing_xs : reachable=false
 @dimen/target_min : reachable=true
@@ -7093,11 +7097,10 @@ Marking id:fragment_container_view_tag:2131230901 used because it matches string
 @layout/item_app_card : reachable=true
     @drawable/bg_card_normal
     @dimen/spacing_md
-    @dimen/app_card_width
     @dimen/app_card_height
+    @dimen/spacing_sm
     @dimen/app_icon_size
     @style/TextAppearance_OhryuTV_BodyLg
-    @dimen/spacing_sm
 @layout/m3_alert_dialog : reachable=false
     @layout/m3_alert_dialog_title
     @dimen/abc_dialog_padding_top_material
@@ -16727,6 +16730,7 @@ The root reachable resources are:
  dimen:mtrl_textinput_box_stroke_width_default:2131100423
  dimen:mtrl_textinput_box_stroke_width_focused:2131100424
  dimen:mtrl_textinput_counter_margin_start:2131100425
+ dimen:spacing_sm:2131100457
  dimen:target_min:2131100460
  drawable:abc_ab_share_pack_mtrl_alpha:2131165224
  drawable:abc_btn_borderless_material:2131165226

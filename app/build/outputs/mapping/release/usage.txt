@@ -22048,7 +22048,6 @@ kotlin.ranges.RangesKt___RangesKt:
     public static final byte coerceIn(byte,byte,byte)
     public static final double coerceIn(double,double,double)
     public static final float coerceIn(float,float,float)
-    public static final int coerceIn(int,int,int)
     public static final int coerceIn(int,kotlin.ranges.ClosedRange)
     public static final long coerceIn(long,long,long)
     public static final long coerceIn(long,kotlin.ranges.ClosedRange)
@@ -32099,6 +32098,7 @@ com.gwolf.tvlauncher.ui.MainActivity:
     public static void observeData()
     public static void registerPackageReceiver()
     public static void setupAdapters()
+    public static void setupDynamicGrid()
     public static void setupViews()
     public static void unregisterPackageReceiver()
 com.gwolf.tvlauncher.ui.MainViewModel:

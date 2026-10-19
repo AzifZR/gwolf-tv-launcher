@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.provider.Settings
 import android.view.KeyEvent
 import android.view.View
+import android.view.ViewTreeObserver
 import android.view.WindowManager
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
@@ -81,11 +82,9 @@ class MainActivity : AppCompatActivity() {
         }
 
         if (rvAppsId != 0) {
-            val columns = viewModel.getGridColumns()
-            findViewById<RecyclerView>(rvAppsId)?.apply {
-                layoutManager = GridLayoutManager(this@MainActivity, columns)
-                adapter = allAppsAdapter
-            }
+            val rvApps = findViewById<RecyclerView>(rvAppsId)
+            rvApps?.adapter = allAppsAdapter
+            setupDynamicGrid(rvApps)
         }
 
         if (btnSettingsId != 0) {
@@ -95,6 +94,48 @@ class MainActivity : AppCompatActivity() {
                 })
             }
         }
+    }
+
+    private fun setupDynamicGrid(recyclerView: RecyclerView?) {
+        if (recyclerView == null) return
+
+        val userSpan = viewModel.getGridColumns()
+        if (userSpan > 0) {
+            recyclerView.layoutManager = GridLayoutManager(this, userSpan)
+            return
+        }
+
+        val listener = object : ViewTreeObserver.OnGlobalLayoutListener {
+            override fun onGlobalLayout() {
+                recyclerView.viewTreeObserver.removeOnGlobalLayoutListener(this)
+                val width = recyclerView.width
+                if (width <= 0) {
+                    recyclerView.layoutManager = GridLayoutManager(this@MainActivity, 5)
+                    return
+                }
+
+                val cardWidthRes = resources.getIdentifier("app_card_width", "dimen", packageName)
+                val spacingSmRes = resources.getIdentifier("spacing_sm", "dimen", packageName)
+
+                val cardWidth = if (cardWidthRes != 0) {
+                    resources.getDimensionPixelSize(cardWidthRes)
+                } else {
+                    (196 * resources.displayMetrics.density).toInt()
+                }
+
+                val gap = if (spacingSmRes != 0) {
+                    resources.getDimensionPixelSize(spacingSmRes) * 2
+                } else {
+                    (16 * resources.displayMetrics.density).toInt()
+                }
+
+                val calculatedSpan = (width + gap) / (cardWidth + gap)
+                val finalSpan = calculatedSpan.coerceIn(4, 6)
+
+                recyclerView.layoutManager = GridLayoutManager(this@MainActivity, finalSpan)
+            }
+        }
+        recyclerView.viewTreeObserver.addOnGlobalLayoutListener(listener)
     }
 
     private fun observeData() {

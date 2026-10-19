@@ -4,8 +4,16 @@
         "source": "com.gwolf.tvlauncher.app-main-40:/layout/activity_main.xml"
     },
     {
-        "merged": "com.gwolf.tvlauncher.app-mergeDebugResources-37:/layout/dialog_app_actions.xml",
-        "source": "com.gwolf.tvlauncher.app-main-40:/layout/dialog_app_actions.xml"
+        "merged": "/home/gwolf/.gradle/daemon/8.10.2/com.gwolf.tvlauncher.app-mergeDebugResources-37:/layout/activity_main.xml",
+        "source": "/home/gwolf/.gradle/daemon/8.10.2/com.gwolf.tvlauncher.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/gwolf/.gradle/daemon/8.10.2/com.gwolf.tvlauncher.app-mergeDebugResources-37:/layout/item_app_card.xml",
+        "source": "/home/gwolf/.gradle/daemon/8.10.2/com.gwolf.tvlauncher.app-main-40:/layout/item_app_card.xml"
+    },
+    {
+        "merged": "/home/gwolf/.gradle/daemon/8.10.2/com.gwolf.tvlauncher.app-mergeDebugResources-37:/layout/dialog_app_actions.xml",
+        "source": "/home/gwolf/.gradle/daemon/8.10.2/com.gwolf.tvlauncher.app-main-40:/layout/dialog_app_actions.xml"
     },
     {
         "merged": "com.gwolf.tvlauncher.app-mergeDebugResources-37:/layout/item_app_card.xml",
