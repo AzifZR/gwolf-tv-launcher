@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gwolf TV</string>
+    <string name="section_favorites">Aplikasi Favorit</string>
+    <string name="section_all">Semua Aplikasi</string>
+    <string name="action_pin">Pin ke Favorit</string>
+    <string name="action_unpin">Unpin dari Favorit</string>
+    <string name="action_hide">Sembunyikan Aplikasi</string>
+    <string name="action_app_info">Info Aplikasi</string>
+    <string name="action_uninstall">Uninstall</string>
+    <string name="settings_desc">Pengaturan Sistem TV</string>
+    <string name="cd_wifi">Status Jaringan Wi-Fi</string>
+    <string name="status_connected">Terhubung</string>
+    <string name="status_disconnected">Terputus</string>
+</resources>

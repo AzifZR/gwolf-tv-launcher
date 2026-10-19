@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ohryu TV banner 320x180dp: Abyss canvas + Voltage Lime mark + wordmark bars -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+
+    <!-- Canvas -->
+    <path
+        android:pathData="M0,0 H320 V180 H0 Z"
+        android:fillColor="@color/colorBackground" />
+
+    <!-- Voltage Lime rounded mark (40dp radius) -->
+    <path
+        android:pathData="M68,30 H108 A40,40 0 0 1 148,70 V110 A40,40 0 0 1 108,150 H68 A40,40 0 0 1 28,110 V70 A40,40 0 0 1 68,30 Z"
+        android:fillColor="@color/colorPrimaryLime" />
+
+    <!-- Wordmark bars -->
+    <path
+        android:pathData="M190,56 H262 A6,6 0 0 1 268,62 V62 A6,6 0 0 1 262,68 H190 A6,6 0 0 1 184,62 V62 A6,6 0 0 1 190,56 Z"
+        android:fillColor="@color/colorPrimaryLime" />
+
+    <path
+        android:pathData="M190,84 H290 A6,6 0 0 1 296,90 V90 A6,6 0 0 1 290,96 H190 A6,6 0 0 1 184,90 V90 A6,6 0 0 1 190,84 Z"
+        android:fillColor="@color/colorTextPrimary" />
+
+    <path
+        android:pathData="M190,112 H242 A6,6 0 0 1 248,118 V118 A6,6 0 0 1 242,124 H190 A6,6 0 0 1 184,118 V118 A6,6 0 0 1 190,112 Z"
+        android:fillColor="@color/colorTextMuted" />
+</vector>

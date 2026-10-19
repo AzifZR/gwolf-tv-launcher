@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Theme Ohryu TV (Lean, No ActionBar, No Material3) -->
+    <style name="Theme.OhryuTV.NoActionBar" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="android:textColor">@color/colorTextPrimary</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+
+    <!-- Typography Styles -->
+    <style name="TextAppearance.OhryuTV.Display" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/font_display</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorTextPrimary</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="TextAppearance.OhryuTV.H1" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/font_h1</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorTextPrimary</item>
+    </style>
+
+    <style name="TextAppearance.OhryuTV.H2" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/font_h2</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorTextPrimary</item>
+    </style>
+
+    <style name="TextAppearance.OhryuTV.BodyLg" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/font_body_lg</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/colorTextPrimary</item>
+    </style>
+
+    <style name="TextAppearance.OhryuTV.Label" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/font_label</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorTextMuted</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:letterSpacing">0.04</item>
+    </style>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Settings: three tune sliders with knobs (stroke-simple) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <path
+        android:pathData="M3.5,7 H20.5"
+        android:fillColor="#00000000"
+        android:strokeColor="@color/colorTextPrimary"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M9,7 m-2.3,0 a2.3,2.3 0 1 0 4.6,0 a2.3,2.3 0 1 0 -4.6,0 Z"
+        android:fillColor="@color/colorBackground"
+        android:strokeColor="@color/colorTextPrimary"
+        android:strokeWidth="1.6" />
+
+    <path
+        android:pathData="M3.5,12 H20.5"
+        android:fillColor="#00000000"
+        android:strokeColor="@color/colorTextPrimary"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M15,12 m-2.3,0 a2.3,2.3 0 1 0 4.6,0 a2.3,2.3 0 1 0 -4.6,0 Z"
+        android:fillColor="@color/colorBackground"
+        android:strokeColor="@color/colorTextPrimary"
+        android:strokeWidth="1.6" />
+
+    <path
+        android:pathData="M3.5,17 H20.5"
+        android:fillColor="#00000000"
+        android:strokeColor="@color/colorTextPrimary"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M11,17 m-2.3,0 a2.3,2.3 0 1 0 4.6,0 a2.3,2.3 0 1 0 -4.6,0 Z"
+        android:fillColor="@color/colorBackground"
+        android:strokeColor="@color/colorTextPrimary"
+        android:strokeWidth="1.6" />
+</vector>

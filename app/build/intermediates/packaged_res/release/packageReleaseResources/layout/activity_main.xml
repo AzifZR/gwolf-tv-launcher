@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground"
+    android:paddingStart="@dimen/tv_safe_h"
+    android:paddingTop="@dimen/tv_safe_v"
+    android:paddingEnd="@dimen/tv_safe_h"
+    android:paddingBottom="@dimen/tv_safe_v">
+
+    <!-- ============ HEADER ============ -->
+
+    <ImageView
+        android:id="@+id/btn_settings"
+        android:layout_width="@dimen/target_min"
+        android:layout_height="@dimen/target_min"
+        android:background="@drawable/bg_icon_pill"
+        android:contentDescription="@string/settings_desc"
+        android:padding="@dimen/icon_inset"
+        android:src="@drawable/ic_settings"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/chip_wifi"
+        android:layout_width="@dimen/icon_sm"
+        android:layout_height="@dimen/icon_sm"
+        android:layout_marginStart="@dimen/spacing_lg"
+        android:contentDescription="@string/cd_wifi"
+        android:src="@drawable/ic_wifi"
+        app:layout_constraintBottom_toBottomOf="@id/btn_settings"
+        app:layout_constraintStart_toEndOf="@id/btn_settings"
+        app:layout_constraintTop_toTopOf="@id/btn_settings" />
+
+    <TextClock
+        android:id="@+id/tc_clock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:format12Hour="HH:mm"
+        android:format24Hour="HH:mm"
+        android:gravity="end"
+        android:textAppearance="@style/TextAppearance.OhryuTV.Display"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/spacing_xs"
+        android:gravity="end"
+        android:textColor="@color/colorTextMuted"
+        android:textSize="@dimen/font_body_lg"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tc_clock"
+        tools:text="Senin, 19 Okt 2026" />
+
+    <!-- ============ FAVORITES ============ -->
+
+    <TextView
+        android:id="@+id/tv_section_favorites"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/spacing_lg"
+        android:text="@string/section_favorites"
+        android:textAppearance="@style/TextAppearance.OhryuTV.H1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_date" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_favorites"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/spacing_md"
+        android:clipToPadding="false"
+        android:orientation="horizontal"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_section_favorites"
+        tools:listitem="@layout/item_app_card" />
+
+    <!-- ============ ALL APPS ============ -->
+
+    <TextView
+        android:id="@+id/tv_section_all"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/spacing_lg"
+        android:text="@string/section_all"
+        android:textAppearance="@style/TextAppearance.OhryuTV.H1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/rv_favorites" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_apps"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="@dimen/spacing_md"
+        android:clipToPadding="false"
+        app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_section_all"
+        app:spanCount="5"
+        tools:listitem="@layout/item_app_card" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

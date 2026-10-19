@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Adaptive icon foreground: Voltage Lime rounded square + Amethyst accent dot -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Mark inside the 72dp adaptive safe zone (18..90) -->
+    <path
+        android:pathData="M43,28 H65 A15,15 0 0 1 80,43 V65 A15,15 0 0 1 65,80 H43 A15,15 0 0 1 28,65 V43 A15,15 0 0 1 43,28 Z"
+        android:fillColor="@color/colorPrimaryLime" />
+
+    <!-- Amethyst accent dot -->
+    <path
+        android:pathData="M76,76 m-10,0 a10,10 0 1 0 20,0 a10,10 0 1 0 -20,0 Z"
+        android:fillColor="@color/colorAmethyst" />
+</vector>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackground">#0B0B0F</color>
+    <color name="colorSurface">#141620</color>
+    <color name="colorSurfaceHover">#1F2333</color>
+    <color name="colorPrimaryLime">#CEE800</color>
+    <color name="colorAmethyst">#765BB7</color>
+    <color name="colorAccentPink">#F55393</color>
+    <color name="colorAccentOrange">#FF8F1C</color>
+    <color name="colorAccentViolet">#8626C3</color>
+    <color name="colorTextPrimary">#F8FAFC</color>
+    <color name="colorTextMuted">#94A3B8</color>
+    <color name="colorTextDark">#0B0B0F</color>
+    <color name="colorBorderSubtle">#2A2E42</color>
+    <color name="colorBorderFocused">#CEE800</color>
+    <color name="colorFocusGlow">#59CEE800</color>
+    <color name="colorScrim">#D90B0B0F</color>
+</resources>

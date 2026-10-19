@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/drawable_bg_menu_item.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/drawable/bg_menu_item.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/drawable_ic_lan.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/drawable/ic_lan.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/color_bg_menu_item_text.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/color/bg_menu_item_text.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/drawable_ic_settings.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/drawable_bg_menu_item_focus.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/drawable/bg_menu_item_focus.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/drawable_bg_scrim.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/drawable/bg_scrim.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/drawable_bg_card_focus.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/drawable/bg_card_focus.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/drawable_bg_icon_pill.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/drawable/bg_icon_pill.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/drawable_ic_wifi.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/drawable/ic_wifi.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/drawable_bg_menu_item_normal.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/drawable/bg_menu_item_normal.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/layout_dialog_app_actions.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/layout/dialog_app_actions.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/layout_item_app_card.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/layout/item_app_card.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/drawable_bg_dialog.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/drawable/bg_dialog.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/drawable_ic_launcher_banner.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/drawable/ic_launcher_banner.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/drawable_bg_card_focus_glow.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/drawable/bg_card_focus_glow.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/layout_activity_main.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/drawable_bg_card_normal.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/drawable/bg_card_normal.xml"
+    },
+    {
+        "merged": "com.gwolf.tvlauncher.app-debug-38:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.gwolf.tvlauncher.app-main-40:/drawable/ic_launcher_foreground.xml"
+    }
+]
